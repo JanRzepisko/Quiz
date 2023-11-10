@@ -1,3 +1,767 @@
-{
-
-}
+[
+  {
+    "QuestionString":"Ile wynosi suma kątów w trójkącie?",
+    "Answers":[
+      {
+        "AnswerText":"120 stopni",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"180 stopni",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"210 stopni",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Która planeta jest najbliżej Słońca?",
+    "Answers":[
+      {
+        "AnswerText":"Mars",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Wenus",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Jowisz",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Ile dni ma luty w roku przestępnym?",
+    "Answers":[
+      {
+        "AnswerText":"28",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"29",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"30",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Kto napisał 'Romeo i Julia'?",
+    "Answers":[
+      {
+        "AnswerText":"Charles Dickens",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"William Shakespeare",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Jane Austen",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Jaki jest skrót krajowy dla Japonii?",
+    "Answers":[
+      {
+        "AnswerText":"CHN",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"JPN",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"KOR",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Który pierwiastek chemiczny oznaczony jest symbolem 'O'?",
+    "Answers":[
+      {
+        "AnswerText":"Tlen",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Żelazo",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Węgiel",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Ile kontynentów jest na Ziemi?",
+    "Answers":[
+      {
+        "AnswerText":"4",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"6",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"7",
+        "isTrue":true
+      }
+    ]
+  },
+  {
+    "QuestionString":"Kto malował Mona Lisę?",
+    "Answers":[
+      {
+        "AnswerText":"Vincent van Gogh",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Leonardo da Vinci",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Pablo Picasso",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Jaka jest stolica Francji?",
+    "Answers":[
+      {
+        "AnswerText":"Berlin",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Paryż",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Rzym",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Ile dni trwa tydzień?",
+    "Answers":[
+      {
+        "AnswerText":"5",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"7",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"10",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Kto był pierwszym prezydentem Stanów Zjednoczonych?",
+    "Answers":[
+      {
+        "AnswerText":"Thomas Jefferson",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"George Washington",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"John Adams",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Jaka jest największa rzeka na świecie?",
+    "Answers":[
+      {
+        "AnswerText":"Nil",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Amazonka",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Jangcy",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"W którym roku odbyła się pierwsza podróż człowieka na Księżyc?",
+    "Answers":[
+      {
+        "AnswerText":"1961",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"1969",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"1975",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Jak nazywa się największy kontynent na Ziemi?",
+    "Answers":[
+      {
+        "AnswerText":"Europa",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Azja",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Afryka",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Ile wynosi pierwiastek kwadratowy z 64?",
+    "Answers":[
+      {
+        "AnswerText":"6",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"8",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"10",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Która planeta jest nazywana 'Czerwoną Planetą'?",
+    "Answers":[
+      {
+        "AnswerText":"Wenus",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Mars",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Jowisz",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Kto napisał 'Zbrodnia i kara'?",
+    "Answers":[
+      {
+        "AnswerText":"Fiodor Dostojewski",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Leo Tolstoj",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"George Orwell",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Które zwierzę jest największe na świecie?",
+    "Answers":[
+      {
+        "AnswerText":"Słoń",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Nieparzystokopytne",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Rekin wielorybi",
+        "isTrue":true
+      }
+    ]
+  },
+  {
+    "QuestionString":"Ile wynosi 7 razy 8?",
+    "Answers":[
+      {
+        "AnswerText":"42",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"56",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"64",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Które państwo jest największe pod względem powierzchni?",
+    "Answers":[
+      {
+        "AnswerText":"Rosja",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Stany Zjednoczone",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Chiny",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Kto był pierwszym prezydentem Polski po 1989 roku?",
+    "Answers":[
+      {
+        "AnswerText":"Lech Wałęsa",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Aleksander Kwaśniewski",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Bronisław Komorowski",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"W którym roku rozpoczęła się II wojna światowa?",
+    "Answers":[
+      {
+        "AnswerText":"1935",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"1939",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"1941",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Jaki kolor ma flaga Stanów Zjednoczonych?",
+    "Answers":[
+      {
+        "AnswerText":"Czerwony",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Biały",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Niebieski",
+        "isTrue":true
+      }
+    ]
+  },
+  {
+    "QuestionString":"Który kraj słynie z budowli zwanej Taj Mahal?",
+    "Answers":[
+      {
+        "AnswerText":"Egipt",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Indie",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Chiny",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Jaka jest stolica Japonii?",
+    "Answers":[
+      {
+        "AnswerText":"Pekin",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Tokio",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Seul",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Które morze leży na wschodnim wybrzeżu Włoch?",
+    "Answers":[
+      {
+        "AnswerText":"Morze Adriatyckie",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Morze Tyrreńskie",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Morze Jońskie",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Które z poniższych zwierząt jest ssakiem?",
+    "Answers":[
+      {
+        "AnswerText":"Rekin",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Delfin",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Żółw",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"W którym kraju znajduje się Machu Picchu?",
+    "Answers":[
+      {
+        "AnswerText":"Boliwia",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Peru",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Ekwador",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Która z planet jest największa w Układzie Słonecznym?",
+    "Answers":[
+      {
+        "AnswerText":"Ziemia",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Jowisz",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Mars",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Jak nazywa się najdłuższa rzeka na świecie?",
+    "Answers":[
+      {
+        "AnswerText":"Nil",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Amazonka",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Jangcy",
+        "isTrue":true
+      }
+    ]
+  },
+  {
+    "QuestionString":"Kto był pierwszym prezydentem Stanów Zjednoczonych?",
+    "Answers":[
+      {
+        "AnswerText":"John Adams",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"George Washington",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Thomas Jefferson",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Który pierwiastek chemiczny oznaczony jest symbolem 'Fe'?",
+    "Answers":[
+      {
+        "AnswerText":"Węgiel",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Żelazo",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Fluor",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"W którym roku zakończyła się II wojna światowa?",
+    "Answers":[
+      {
+        "AnswerText":"1943",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"1945",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"1948",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Który gaz jest najbardziej obfity w atmosferze Ziemi?",
+    "Answers":[
+      {
+        "AnswerText":"Azot",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Tlen",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Argon",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Ile wynosi 9 do potęgi 2?",
+    "Answers":[
+      {
+        "AnswerText":"81",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"64",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"81",
+        "isTrue":true
+      }
+    ]
+  },
+  {
+    "QuestionString":"Kto był autorem 'Romeo i Julia'?",
+    "Answers":[
+      {
+        "AnswerText":"Charles Dickens",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"William Shakespeare",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Jane Austen",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Które państwo jest największe pod względem ludności?",
+    "Answers":[
+      {
+        "AnswerText":"Chiny",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Indie",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Stany Zjednoczone",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"W którym roku odbyła się pierwsza wyprawa kolumbijska?",
+    "Answers":[
+      {
+        "AnswerText":"1492",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"1498",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"1505",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Jak nazywa się największy kontynent?",
+    "Answers":[
+      {
+        "AnswerText":"Afryka",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Azja",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Europa",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Kto napisał 'Wojna i pokój'?",
+    "Answers":[
+      {
+        "AnswerText":"Fiodor Dostojewski",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Leo Tolstoj",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Gabriel Garcia Marquez",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Jaki jest skrót krajowy dla Niemiec?",
+    "Answers":[
+      {
+        "AnswerText":"GER",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"DEU",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"NET",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Które z poniższych zwierząt jest ssakiem?",
+    "Answers":[
+      {
+        "AnswerText":"Krokodyl",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Panda",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Kruk",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Który kolor jest najjaśniejszy?",
+    "Answers":[
+      {
+        "AnswerText":"Czerwony",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Zielony",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Biały",
+        "isTrue":true
+      }
+    ]
+  },
+  {
+    "QuestionString":"W którym roku rozpadła się Jugosławia?",
+    "Answers":[
+      {
+        "AnswerText":"1990",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"1992",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"1995",
+        "isTrue":false
+      }
+    ]
+  },
+  {
+    "QuestionString":"Który z elementów chemicznych ma symbol 'Na'?",
+    "Answers":[
+      {
+        "AnswerText":"Nikiel",
+        "isTrue":false
+      },
+      {
+        "AnswerText":"Sód",
+        "isTrue":true
+      },
+      {
+        "AnswerText":"Neon",
+        "isTrue":false
+      }
+    ]
+  }
+]

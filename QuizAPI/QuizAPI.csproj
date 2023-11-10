@@ -7,4 +7,14 @@
         <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Content Update="questions.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    </ItemGroup>
+
 </Project>

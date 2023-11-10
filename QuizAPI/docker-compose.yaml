@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+  Api:
+    image: ${DOCKER_REGISTRY-}quiz
+    container_name: 'Quiz'
+    ports:
+      - 5073:80
+    build:
+      context: .
+      dockerfile: Dockerfile
